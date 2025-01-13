@@ -1,6 +1,6 @@
 <?php
 echo "masukan Nama : ";
-$nama = trim(fgest(STDIN));
+$Nama = trim(fgets(STDIN));
 echo "Masukan nilai anda : ";
 $nilai = trim(fgets(STDIN));
 
